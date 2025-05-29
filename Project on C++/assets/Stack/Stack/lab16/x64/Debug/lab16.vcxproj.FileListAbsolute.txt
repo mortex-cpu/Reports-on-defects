@@ -1,0 +1,6 @@
+D:\С++\Лабы\lab16\lab16\x64\Debug\lab16.vcxproj.AssemblyReference.cache
+D:\С++\Лабы\lab16\lab16\x64\Debug\lab16.MyForm.resources
+D:\С++\Лабы\lab16\lab16\x64\Debug\lab16.vcxproj.GenerateResource.cache
+D:\GitHub Tests\lab16\lab16\lab16\lab16\x64\Debug\lab16.vcxproj.AssemblyReference.cache
+D:\GitHub Tests\lab16\lab16\lab16\lab16\x64\Debug\lab16.MyForm.resources
+D:\GitHub Tests\lab16\lab16\lab16\lab16\x64\Debug\lab16.vcxproj.GenerateResource.cache
